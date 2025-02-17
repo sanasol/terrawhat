@@ -1,0 +1,7 @@
+master_ip = "10.0.0.1"
+worker_ips = [
+  "10.0.0.2",
+  "10.0.0.3"
+]
+ssh_private_key = "~/.ssh/id_rsa"
+ssh_user = "debian"
